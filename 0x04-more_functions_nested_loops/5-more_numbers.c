@@ -20,4 +20,4 @@ int i, j;
 		}
 			_putchar('\n');
 		}
-
+}
